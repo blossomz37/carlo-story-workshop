@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Spotlight
+.Spotlight-V100
+.Trashes
+
+# Icon files
+Icon?
+
+# Thumbnails
+Thumbs.db
+
+# My Personal Local Files
+CLAUDE.md
+README.md
